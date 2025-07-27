@@ -60,13 +60,12 @@ VoiceGPT/
 ```
 
 📌 Notlar
-whisper modeli base olarak yüklüdür (daha hızlı için "tiny", daha kaliteli için "small" da kullanılabilir).
 
 Ollama ile llama3 modeli kullanılmıştır. Dilersen mistral, gemma veya llama2 ile değiştirebilirsin.
 
 flag butonu ile ses, yanıt ve sesli çıktı .csv olarak kaydedilir (proje klasöründeki .gradio/flagged/ içinde).
 
-Türkçe karakter desteği için gtts kullanılmıştır (doğal ve hızlı seslendirme için idealdir).
+Türkçe karakter desteği için gtts kullanılmıştır.
 
 ---
 
