@@ -4,6 +4,12 @@ VoiceGPT, mikrofonla konuştuğunuzda sesinizi yazıya çeviren, anlamlı cevapl
 
 ---
 
+## 🎬 Tanıtım Videosu
+
+[![VoiceGPT Tanıtım Videosu](https://img.youtube.com/vi/KPB3i5rgoHY/hqdefault.jpg)](https://www.youtube.com/watch?v=KPB3i5rgoHY)
+
+> Yukarıdaki görsele tıklayarak projeyi canlı olarak izleyebilirsiniz.
+
 ## 🚀 Özellikler
 
 - Mikrofondan ses alma
