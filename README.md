@@ -70,3 +70,11 @@ Türkçe karakter desteği için gtts kullanılmıştır.
 ---
 
 ## 5. Ekran Görüntüleri
+
+<img width="1615" height="955" alt="image" src="https://github.com/user-attachments/assets/32e8259f-c8b0-4af0-99a8-a6744c128b89" />
+
+## Soru - İstanbulda gezmek için nereye gidebilirim?
+
+## Cevap - İstanbul'un birçok cazibe noktası var! Sultanahmet'i ziyaret etmelisiniz, hem tarihi yapıları hem de muhteşem manzaranın tadını çıkarabilirsiniz. Ayrıca Beyazıt Çarşısı, Galata Kulesi, Topkapi Sarayı ve Eminönü'deki balıkçı limanı da keyifle gezmeye değsin.
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/6a21b0db-79ca-45e4-a306-bd110e35c112" />
+
