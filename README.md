@@ -10,6 +10,8 @@ VoiceGPT, mikrofonla konuştuğunuzda sesinizi yazıya çeviren, anlamlı cevapl
 
 > Yukarıdaki görsele tıklayarak projeyi canlı olarak izleyebilirsiniz.
 
+---
+
 ## 🚀 Özellikler
 
 - Mikrofondan ses alma
