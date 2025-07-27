@@ -1,0 +1,5 @@
+gradio>=4.0.0
+gtts>=2.2.4
+torch>=2.0.0
+ollama>=0.1.6
+git+https://github.com/openai/whisper.git
